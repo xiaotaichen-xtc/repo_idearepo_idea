@@ -27,5 +27,13 @@ public interface CourseDao {
 	
 	//修改课程状态
 	int updateCourseStatus2(Course course);
+	
+	public void test11();
+	public void test21();
+	public void test31();
+	public void test41();
+	public void test51();
+	public void test61();
+	public void test71();
 
 }
