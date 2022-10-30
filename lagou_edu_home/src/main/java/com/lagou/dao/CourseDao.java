@@ -43,5 +43,8 @@ public interface CourseDao {
 	public void test5();
 	public void test6();
 	public void test7();
+	public void test8();
+	public void test9();
+	public void test10();
 
 }
