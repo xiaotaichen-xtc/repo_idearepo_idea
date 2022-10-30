@@ -24,5 +24,8 @@ public interface CourseDao {
 
 	//修改课程状态
 	int updateCourseStatus(Course course);
+	
+	//修改课程状态
+	int updateCourseStatus2(Course course);
 
 }
